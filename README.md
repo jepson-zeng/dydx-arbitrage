@@ -1,4 +1,4 @@
-# eth-arbitrage
+# dydx-arbitrage
 
 ## What is Arbitrage
 
